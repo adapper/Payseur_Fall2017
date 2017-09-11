@@ -2,9 +2,9 @@
 
 ## Lab Schedule
 
-Discussion-Based Lab Meeting - Monday 1<PM>
+Discussion-Based Lab Meeting - Monday 1 ^PM^
 
-Research-Based Lab Meeting - Wednesday 1^PM^
+Research-Based Lab Meeting - Wednesday 1 ^PM^
 
 ### September
 | Monday           | Tuesday          | Wednesday        | Thursday         | Friday           | Saturday | Sunday   |
